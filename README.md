@@ -39,11 +39,9 @@ command to run if program contains helper info
 
 ## Authors
 
-Contributors names and contact info
+Akshath.SB  
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
+@akshathbhandiwad2@gmail.com
 
 ## License
 
